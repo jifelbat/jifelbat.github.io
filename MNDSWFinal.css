@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(246, 244, 244);
+    background-color: lightgrey;
     margin: 0px;
 
 }
@@ -13,7 +13,7 @@ body{
 
 .header{
     text-align: center;
-    background-color: #e9e9e9;
+    background-color: darkgrey;
     margin: 0px;
     padding: 20px 10px;
     color: black;
@@ -88,7 +88,7 @@ body{
 .footerClass{
     max-width:100%;
     height: 10rem;
-    background-color: #d2d0d0;
+    background-color: darkgrey;
     text-align: center;
     font-size: 30px;
 }
